@@ -40,3 +40,5 @@ Complete the following steps:
 ![image](https://github.com/user-attachments/assets/946ce048-a66b-4744-aa7a-8c6165a9e2d6)
 
 6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+I used ChatGpt and class resources to code this file.
